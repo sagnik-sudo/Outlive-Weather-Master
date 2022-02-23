@@ -4,7 +4,9 @@
 
 Outlive Weather Master is a simple and easy to use API that allows you to see the weather of any city you want. You can use it to make a simple weather app or even a weather widget.
 
-Live API is up at [wkuzx9.deta.dev](https://wkuzx9.deta.dev/weatherapi)
+Live API is up at [outliveweather.deta.dev](https://outliveweather.deta.dev/weatherapi)
+
+If you like my work, consider giving a star :)
 
 ## API Documentation
 
